@@ -1,0 +1,1 @@
+# Build-a-Fullstack-Project-Management-App-with-Next.js-15-Supabase-Shadcn-Resend-DnD-Kit-Tiptap
